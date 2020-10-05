@@ -1,7 +1,7 @@
 # [Cyclistplus](https://rockit-products.myshopify.com/)
 
 I made a hobby Shopify storefront with with the following elements:
-1. HTML, CSS, and JS using Shopify's Liquid template language. Details about Liquid: [HERE](https://shopify.github.io/liquid/)
+1. HTML, CSS, and JS using Shopify's Liquid template language. Details about Liquid: [HERE](https://shopify.github.io/liquid/).
 2. Shopify third party application implementation.
 3. Custom designed Graphical User Interface(GUI).
 4. Custom Graphic designed logo using GIMP photo editing software.
