@@ -6,7 +6,6 @@ I made a hobby Shopify storefront with with the following elements:
 3. Custom designed Graphical User Interface(GUI).
 4. Custom Graphic designed logo using GIMP photo editing software.
 5. Linked products using Aliexpress and Oberlo.
-6. Database backup and management in favored server management software.
 7. Two factor authentication.
 8. Search Engine Optimization(SEO) best practices.
 9. User account creation.
